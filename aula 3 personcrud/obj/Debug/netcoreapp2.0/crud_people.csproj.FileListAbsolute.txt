@@ -1,0 +1,11 @@
+C:\Users\Diogo\Desktop\Aula07_crud_people\bin\Debug\netcoreapp2.0\crud_people.deps.json
+C:\Users\Diogo\Desktop\Aula07_crud_people\bin\Debug\netcoreapp2.0\crud_people.runtimeconfig.json
+C:\Users\Diogo\Desktop\Aula07_crud_people\bin\Debug\netcoreapp2.0\crud_people.runtimeconfig.dev.json
+C:\Users\Diogo\Desktop\Aula07_crud_people\bin\Debug\netcoreapp2.0\crud_people.dll
+C:\Users\Diogo\Desktop\Aula07_crud_people\bin\Debug\netcoreapp2.0\crud_people.pdb
+C:\Users\Diogo\Desktop\Aula07_crud_people\obj\Debug\netcoreapp2.0\crud_people.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\Aula07_crud_people\obj\Debug\netcoreapp2.0\crud_people.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\Aula07_crud_people\obj\Debug\netcoreapp2.0\crud_people.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\Aula07_crud_people\obj\Debug\netcoreapp2.0\crud_people.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\Aula07_crud_people\obj\Debug\netcoreapp2.0\crud_people.dll
+C:\Users\Diogo\Desktop\Aula07_crud_people\obj\Debug\netcoreapp2.0\crud_people.pdb
